@@ -1,0 +1,5 @@
+id,has_house,salary,age,marital_status,credit
+22240,oui,3000.00,50,célibataire,oui
+22241,non,1000.21,54,marié,oui
+22242,oui,3000.00,27,célibataire,non
+22243,oui,2000.21,40,marié,oui
